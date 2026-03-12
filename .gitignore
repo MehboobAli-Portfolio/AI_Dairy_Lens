@@ -18,8 +18,8 @@ env/
 # Jupyter Notebooks checkpoints
 .ipynb_checkpoints/
 
-# Large model files (optional: comment out if you want to track)
-# model.pth
+# Large model files
+model.pth
 
 # Large dataset folders (uncomment to exclude if too large)
 # FMD_Cattle/
