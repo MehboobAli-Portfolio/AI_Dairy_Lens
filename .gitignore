@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Large model files (optional: comment out if you want to track)
+# model.pth
+
+# Large dataset folders (uncomment to exclude if too large)
+# FMD_Cattle/
+# mastitis/
+# Lumpy Skin Images Dataset/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
