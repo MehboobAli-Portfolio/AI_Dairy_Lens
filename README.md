@@ -7,6 +7,10 @@ The AI Dairy Lens project aims to leverage artificial intelligence to optimize d
 - **Herd Health Monitoring**: AI systems that identify health issues in cows through image analysis.
 - **Milk Production Tracking**: Automated systems to log and analyze milk yield from individual cows.
 - **Feed Analysis**: Tools to assess and optimize feed quality to enhance dairy cow productivity.
+- **Disease Detection**: Advanced AI model that predicts and detects 3 major dairy cow diseases:
+  - **Mastitis**: Inflammation of the udder tissue causing milk quality reduction
+  - **Foot and Mouth Disease (FMD)**: Highly contagious viral disease affecting cattle
+  - **Bovine Tuberculosis (TB)**: Chronic infectious disease impacting herd health
 
 ## Installation
 To set up the project, clone the repository:
